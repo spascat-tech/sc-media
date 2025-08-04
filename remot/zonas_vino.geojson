@@ -4616,7 +4616,7 @@
 				"TPR_DS_DES": "Denominación de Origen",
 				"TPR_DS_GRU": "CALIDAD DIFERENCIADA",
 				"FAM_DS_NOM": "Vinos",
-				"id": 24
+				"id": 94
 			},
 			"geometry": {
 				"type": "Polygon",
@@ -25194,7 +25194,7 @@
 				"TPR_DS_DES": "Denominación de Origen",
 				"TPR_DS_GRU": "CALIDAD DIFERENCIADA",
 				"FAM_DS_NOM": "Vinos",
-				"id": 88
+				"id": 95
 			},
 			"geometry": {
 				"type": "Polygon",
